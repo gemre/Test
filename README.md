@@ -16,7 +16,7 @@
 <h2 align="center">
 Who am I 👀 
 </h2>
-Junior Industrial Engineering student at Sabanci University. Loves data science especially using Python.
+Senior Industrial Engineering student at Sabanci University. Loves data science especially using Python.
 </p>
 <center>
 <br>
